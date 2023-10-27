@@ -8,7 +8,7 @@ This Jupyter Notebook project is focused on performing sentiment analysis using 
 
 The dataset used in this project is obtained from Kaggle and is specifically designed for sentiment analysis. It contains a collection of text data with associated sentiment labels. The dataset is divided into two sentiment classes: positive and negative.
 
-- **Dataset Source:** [Kaggle Sentiment Analysis Dataset]([https://www.kaggle.com/sentiment140](https://www.kaggle.com/datasets/abhi8923shriv/sentiment-analysis-dataset))
+- **Dataset Source:** [Kaggle Sentiment Analysis Dataset](https://www.kaggle.com/datasets/abhi8923shriv/sentiment-analysis-dataset))
 
 ## Project Contents
 
